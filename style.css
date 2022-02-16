@@ -1,0 +1,35 @@
+body{
+    background:   cyan;
+    font-family: cursive;
+}
+.header_div{
+    background: pink;
+    color: blueviolet;
+}
+.header_div p{
+    color: indigo;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.main_div button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    background-color: fuchsia;
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: lavender;
+    font-size: 18px;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px powderblue;
+}
